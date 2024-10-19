@@ -14,5 +14,5 @@ This project implements a simple rule engine that uses an Abstract Syntax Tree (
 To run this project, you need Python 3.6 or higher. You can clone the repository and run the script directly.
 
 ```bash
-git clone https://github.com/your_username/rule_engine_ast.git
+git clone https://github.com/varshith5577/rule_engine_ast.git
 cd rule_engine_ast
