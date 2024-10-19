@@ -15,4 +15,4 @@ To run this project, you need Python 3.6 or higher. You can clone the repository
 
 ```bash
 git clone https://github.com/varshith5577/Rule Engine with AST.git
-cd rule_engine_ast
+cd Rule Engine with AST
